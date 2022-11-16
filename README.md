@@ -19,3 +19,5 @@ facilities available there. If there are no events taking place at the venue the
 - Search Competitor’s Event Entries. The user of the software system identifies a competitor by entering a name, or partial name. For all competitors that
 match, the system displays the competitor’s name and age. For each running event for which the competitor has an entry, the system displays the event date,
 along with the event number the competitor has been allocated for that event. The system also states whether the event is a 5 km fun run or a half-marathon.
+
+<p align="center"><img width="849" alt="Screenshot 2022-11-16 at 20 32 03" src="https://user-images.githubusercontent.com/93152488/202287983-28512760-baf9-4c23-92d3-69bbf316e11b.png"></p>
